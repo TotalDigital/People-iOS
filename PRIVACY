@@ -1,0 +1,12 @@
+Total People is a lightweb universal client for any People instance. 
+This application does not collect any Personal data from its users. 
+
+All users have validated related Instance policy (CGU) before creating their account. Please refer to this document for further details.
+
+Total People uses Oauth
+OAuth is a registration and authentication service provided by hosted People instances that collects various types of Data as specified in the privacy policy of the hosted service. 
+Connection to user's instance uses standard HTTPS encryption.
+
+Data from/to Instance is only stored on user's device for visualization and caching purpose and is never sent to any third party plateform.
+
+People have been originaly developped by Total and this service is now Opensource and available for everyone. Please, contribute to the OpenSource code : https://github.com/totaldigital/People
